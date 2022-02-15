@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Destructible2D", "Destructible2D.csproj", "{64A2D734-8FE9-E0FB-39A6-7C7C1E6A0DB8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{B3E8A947-2633-60BC-BBE8-2B125643CA96}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextToTMP.Editor", "TextToTMP.Editor.csproj", "{9E3196C7-B402-791A-FB26-337BFFD95B4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64A2D734-8FE9-E0FB-39A6-7C7C1E6A0DB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64A2D734-8FE9-E0FB-39A6-7C7C1E6A0DB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64A2D734-8FE9-E0FB-39A6-7C7C1E6A0DB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64A2D734-8FE9-E0FB-39A6-7C7C1E6A0DB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3E8A947-2633-60BC-BBE8-2B125643CA96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3E8A947-2633-60BC-BBE8-2B125643CA96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3E8A947-2633-60BC-BBE8-2B125643CA96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3E8A947-2633-60BC-BBE8-2B125643CA96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E3196C7-B402-791A-FB26-337BFFD95B4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E3196C7-B402-791A-FB26-337BFFD95B4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E3196C7-B402-791A-FB26-337BFFD95B4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E3196C7-B402-791A-FB26-337BFFD95B4E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
